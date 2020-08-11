@@ -15,7 +15,8 @@
 
 **_2019_**  
 **일본 도쿄 SECCON 국제해킹방어대회 Finals 2위**  
-**벨루미나 Belluminar CTF 2위**  
+**벨루미나 Belluminar CTF Finals 2위**  
+**중국 베이징 Real World CTF Finals 4위**  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
 
 **_2018_**  
