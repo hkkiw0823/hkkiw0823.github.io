@@ -12,6 +12,7 @@
 **_2020_**  
 한국 코드게이트 CodeGate CTF Finals  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
+중국 0CTF/TCTF 국제해킹방어대회 Finals  
 
 **_2019_**  
 **일본 도쿄 SECCON 국제해킹방어대회 Finals 2위**  
