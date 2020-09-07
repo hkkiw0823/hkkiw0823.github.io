@@ -10,7 +10,7 @@
 
 ## 수상
 **_2020_**  
-한국 코드게이트 CodeGate CTF Finals  
+한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
 중국 0CTF/TCTF 국제해킹방어대회 Finals  
 
@@ -19,14 +19,17 @@
 **벨루미나 Belluminar CTF Finals 2위**  
 **중국 베이징 Real World CTF Finals 4위**  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
+한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
 **_2018_**  
 일본 도쿄 SECCON 국제해킹방어대회 Finals 4위  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
+한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
 **_2017_**  
 **대한민국 화이트햇 콘테스트 본선 2위**  
-미국 라스베가스 Defcon 국제해킹방어대회 Finals
+미국 라스베가스 Defcon 국제해킹방어대회 Finals  
+한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
 **_2015_**  
 **한국인터넷진흥원 KISA HDCON 2015 해킹방어대회 2위**  
@@ -37,6 +40,7 @@
 INCOGNITO 해킹대회 일반부 2위  
 INCOGNITO 해킹대회 청소년부 최우수 정보보호 인재상  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
+한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
 **_2013_**  
 **한국인터넷진흥원 KISA HDCON 2013 해킹방어대회 2위**  
