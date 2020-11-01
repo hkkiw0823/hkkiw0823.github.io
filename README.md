@@ -4,12 +4,13 @@
 닉네임 - hkkiw0823  
 학교 -  세종대학교 컴퓨터공학과  
 소속 -  라온시큐어, [CodeRed](https://www.facebook.com/CodeRed.hackerteam) 팀장  
-소속 -  차세대 보안리더 양성프로그램(Best Of the Best) 취약점 분석 트랙 멘토  
+소속 -  [차세대 보안리더 양성프로그램](https://www.kitribob.kr/)(Best Of the Best) 취약점 분석 트랙 멘토  
 이메일 - hkkiw0823@gmail.com  
 페이스북 - http://www.facebook.com/hkkiw0823  
 
 ## 수상
 **_2020_**  
+**한국 국정원 사이버공격방어대회 우승**  
 한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
 중국 0CTF/TCTF 국제해킹방어대회 Finals  
@@ -80,6 +81,7 @@ INCOGINO 대학생 대상 멘토
 중학생 보안 진로체험 캠프 운영  
 그 외 기타 다수 취약점 제보  
 
+<!--
 ## 프로젝트 및 연구
 삼성전자 갤럭시 S10,S10+,S10e,Note10 기종 보안취약점 점검  
 빗썸 Bithumb 암호화페 거래소 해킹 사건 로그 분석 및 전수 조사 (PM)  
@@ -97,5 +99,5 @@ KISA 국내 호스팅사 모의해킹 및 보안취약점 점검
 한화손해보험 모의해킹 및 보안취약점 점검  
 AXA 손해보험 모의해킹 및 보안취약점 점검  
 그 외 기타 다수 프로젝트 진행 및 연구
-
+-->
 
