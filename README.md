@@ -23,7 +23,7 @@
 한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
 **_2018_**  
-일본 도쿄 SECCON 국제해킹방어대회 Finals 4위  
+**일본 도쿄 SECCON 국제해킹방어대회 Finals 4위**  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
 한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
