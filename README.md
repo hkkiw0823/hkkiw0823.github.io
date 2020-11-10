@@ -15,7 +15,7 @@
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=020&aid=0002369108  
 
 **_2013년_**  
-CodeGate 방어기술콘테스트  
+CodeGate 방어기술콘테스트 1위  
 https://www.boannews.com/media/view.asp?idx=35523&kind=1
 
 **_2014년_**  
