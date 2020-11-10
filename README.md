@@ -61,13 +61,13 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=018&aid=00041
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=144&aid=0000600826  
 ‘블랙해커’ 공격 막는 ‘화이트해커’ 강인욱씨  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000405234  
-
+  
 국제 해킹방어대회 SECCON CTF 2019서 한국팀 ‘CodeRed’ 준우승  
 https://www.boannews.com/media/view.asp?idx=85365  
 한국대표 CodeRed팀, 일본 국제해킹방어대회에서 준우승 기염  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=468&aid=0000607898  
-
-**_2020년_**
+  
+**_2020년_**  
 (별별 JOB스토리 : 화이트해커) 국내 엘리트급 100명에 불과…기술력 보다 중요한 건 윤리의식  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=076&aid=0003517053  
   
