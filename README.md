@@ -8,6 +8,11 @@
 이메일 - hkkiw0823@gmail.com  
 페이스북 - http://www.facebook.com/hkkiw0823  
 
+## 방송  
+스미싱, 피싱 해킹시연(N번방) - JTBC 이규연의 스포트라이트  
+https://www.facebook.com/watch/?v=323390581977908  
+
+
 ## 인터뷰 및 기사
 
 **_2012년_**  
