@@ -8,6 +8,66 @@
 이메일 - hkkiw0823@gmail.com  
 페이스북 - http://www.facebook.com/hkkiw0823  
 
+## 인터뷰 및 기사
+
+**_2012년_**  
+보안 개발자들을 위한 축제, '안랩 코어 2012'  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=020&aid=0002369108  
+
+**_2013년_**  
+CodeGate 방어기술콘테스트  
+https://www.boannews.com/media/view.asp?idx=35523&kind=1
+
+**_2014년_**  
+CodeRed 중학생 진로체험캠프  
+https://www.boannews.com/media/view.asp?idx=44123&kind=2  
+  
+시큐인사이드 준우승 코드레드팀, 데프콘도 정복하나?  
+https://www.boannews.com/media/view.asp?idx=41933&kind=3  
+시큐인사이드 준우승 코드레드팀  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=020&aid=0002607703  
+  
+숨 가빴던 KISA 해킹방어대회…'코드레드팀' 우승  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002064955  
+“새로운 경험이었어요” 11회 HDCON 우승 'CodeRed팀' 영상 인터뷰  
+https://www.dailysecu.com/?mod=news&act=articleView&idxno=8309  
+해킹방어대회 실무형 변모 주목  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002253742  
+보안입문자들이여! 자립심을 길러라  
+https://www.boannews.com/media/view.asp?idx=42385  
+확 바뀐 KISA 해킹방어대회…참가자 '장사진'  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002063919
+
+**_2017년_**
+  
+2017 미국 라스베가스 DEFCON 국제해킹방어대회  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002424286  
+  
+**_2018년_**
+  
+2018 가상화폐 거래소 빗썸 & (CodeRed Team)코드레드 팀 스폰서쉽  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0003996634  
+  
+2018 미국 라스베가스 DEFCON 국제해킹방어대회  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=018&aid=0004171251  
+  
+**_2019년_**
+  
+‘블랙 해커’ 막는 ‘천재 화이트 해커’ iT 보안전문가 강인욱  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=144&aid=0000600826  
+‘블랙해커’ 공격 막는 ‘화이트해커’ 강인욱씨  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000405234  
+
+국제 해킹방어대회 SECCON CTF 2019서 한국팀 ‘CodeRed’ 준우승  
+https://www.boannews.com/media/view.asp?idx=85365  
+한국대표 CodeRed팀, 일본 국제해킹방어대회에서 준우승 기염  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=468&aid=0000607898  
+
+**_2020년_**
+(별별 JOB스토리 : 화이트해커) 국내 엘리트급 100명에 불과…기술력 보다 중요한 건 윤리의식  
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=076&aid=0003517053  
+  
+
 ## 수상
 **_2020_**  
 **한국 국정원 사이버공격방어대회 우승**  
@@ -39,24 +99,24 @@
 **SECUINSIDE 국제해킹방어대회 2위**  
 **한국인터넷진흥원 KISA HDCON 2014 해킹방어대회 1위**  
 INCOGNITO 해킹대회 일반부 2위  
-INCOGNITO 해킹대회 청소년부 최우수 정보보호 인재상  
+**INCOGNITO 해킹대회 청소년부 최우수 정보보호 인재상**  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
 한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 
 **_2013_**  
 **한국인터넷진흥원 KISA HDCON 2013 해킹방어대회 2위**  
 **CODEGATE 코드게이트 방어기술콘테스트 1위**  
-선린인터넷고등학교 교내 모의해킹대회 1위  
+**선린인터넷고등학교 교내 모의해킹대회 1위**  
 인하대학교 청소년 화이트해커 경진대회 2위  
 
 **_2012_**  
 제 10회 청소년 정보보호 페스티벌 3위  
-선린인터넷고등학교 교내 모의해킹대회 1위  
+**선린인터넷고등학교 교내 모의해킹대회 1위**  
 인하대학교 화이트해커 경진대회 2위  
 
 **_2011_**  
 Argos Hacking Festival 2위  
-카톨릭대 CAT HolyShield 1위  
+**카톨릭대 CAT HolyShield 1위  **
 HUST Hacking Festival 2위  
 **중/고교생 청소년 해킹방어대회 1위**  
 Paradox Conference 해킹대회 3위  
