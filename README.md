@@ -21,6 +21,9 @@ https://www.boannews.com/media/view.asp?idx=35523&kind=1
 **_2014년_**  
 CodeRed 중학생 진로체험캠프  
 https://www.boannews.com/media/view.asp?idx=44123&kind=2  
+
+보안입문자들이여! 자립심을 길러라  
+https://www.boannews.com/media/view.asp?idx=42385  
   
 시큐인사이드 준우승 코드레드팀, 데프콘도 정복하나?  
 https://www.boannews.com/media/view.asp?idx=41933&kind=3  
@@ -33,10 +36,11 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=00020
 https://www.dailysecu.com/?mod=news&act=articleView&idxno=8309  
 해킹방어대회 실무형 변모 주목  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002253742  
-보안입문자들이여! 자립심을 길러라  
-https://www.boannews.com/media/view.asp?idx=42385  
 확 바뀐 KISA 해킹방어대회…참가자 '장사진'  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002063919
+제11회 해킹방어대회 우승은 ‘코드레드’
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002024440  
+
 
 **_2017년_**
   
