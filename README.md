@@ -80,6 +80,7 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=076&aid=00035
 ## 수상
 **_2020_**  
 **한국 국정원 사이버공격방어대회 우승**  
+**일본 TrendMicro CTF Finals 3위**  
 한국 코드게이트 CodeGate 국제해킹방어대회 Finals  
 미국 라스베가스 Defcon 국제해킹방어대회 Finals  
 중국 0CTF/TCTF 국제해킹방어대회 Finals  
