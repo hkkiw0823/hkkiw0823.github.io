@@ -126,7 +126,7 @@ INCOGNITO 해킹대회 일반부 2위
 
 **_2011_**  
 Argos Hacking Festival 2위  
-**카톨릭대 CAT HolyShield 1위  **  
+**카톨릭대 CAT HolyShield 1위**  
 HUST Hacking Festival 2위  
 **중/고교생 청소년 해킹방어대회 1위**  
 Paradox Conference 해킹대회 3위  
