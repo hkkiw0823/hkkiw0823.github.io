@@ -49,7 +49,7 @@ https://www.dailysecu.com/?mod=news&act=articleView&idxno=8309
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002253742  
 확 바뀐 KISA 해킹방어대회…참가자 '장사진'  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002063919  
-제11회 해킹방어대회 우승은 ‘코드레드’
+제11회 해킹방어대회 우승은 ‘코드레드’  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002024440  
 
 
