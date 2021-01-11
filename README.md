@@ -84,7 +84,7 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=076&aid=00035
   
 
 ## 수상
-**_2020_**  
+**_2021_**  
 **중국 베이징 Real World CTF Finals 우승**  
 
 **_2020_**  
