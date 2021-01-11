@@ -60,10 +60,10 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=00024
   
 **_2018년_**
   
-2018 가상화폐 거래소 빗썸 & (CodeRed Team)코드레드 팀 스폰서쉽  
+가상화폐 거래소 빗썸 & (CodeRed Team)코드레드 팀 스폰서쉽  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=015&aid=0003996634  
   
-2018 미국 라스베가스 DEFCON 국제해킹방어대회  
+미국 라스베가스 DEFCON 국제해킹방어대회  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=018&aid=0004171251  
   
 **_2019년_**
