@@ -3,7 +3,7 @@
 이름 - 강인욱(Kang In Wook)  
 닉네임 - hkkiw0823  
 학교 -  세종대학교 컴퓨터공학과  
-<!--소속 - 라온시큐어 화이트햇센터 핵심연구팀 팀장  -->
+소속 - 라온시큐어 화이트햇센터 핵심연구팀 팀장  
 소속 -  [CodeRed](https://www.facebook.com/CodeRed.hackerteam) 팀장  
 소속 -  [차세대 보안리더 양성프로그램](https://www.kitribob.kr/)(Best Of the Best) 취약점 분석 트랙 멘토  
 이메일 - hkkiw0823@gmail.com  
