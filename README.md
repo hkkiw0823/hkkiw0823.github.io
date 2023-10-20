@@ -98,7 +98,10 @@ https://www.boannews.com/media/view.asp?idx=97152&kind=
 **_2022년_**  
 해킹 올림픽 '데프콘 CTF' 한·미·캐나다 연합팀  
 https://n.news.naver.com/mnews/article/022/0003725331?sid=101  
-  
+
+**_2023년_**  
+해킹 올림픽 ‘데프콘 CTF 31’ 예선 결과... 한미 연합팀과 한국팀 3곳, 본선 진출 쾌거  
+https://www.boannews.com/media/view.asp?idx=118586  
 
 ## 수상
 **_2022_**   
