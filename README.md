@@ -5,7 +5,7 @@
 학력 -  세종대학교 컴퓨터공학과  
 경력 - 주식회사 블록스텔라 대표(2023.10 ~ )  
 경력 - 라온시큐어 화이트햇센터 핵심연구팀 팀장(~ 2023.06)  
-경력 -  [CodeRed](https://www.facebook.com/CodeRed.hackerteam) 팀장(2013.12 ~ )  
+경력 - [CodeRed](https://www.facebook.com/CodeRed.hackerteam) 팀장, International Hacking Team, Leader(2013.12 ~ )  
 경력 -  [차세대 보안리더 양성프로그램](https://www.kitribob.kr/)(Best Of the Best) 취약점 분석 트랙 멘토(2020.05 ~ )  
 이메일 - hkkiw0823@gmail.com  
 페이스북 - http://www.facebook.com/hkkiw0823  
