@@ -103,7 +103,7 @@ https://n.news.naver.com/mnews/article/022/0003725331?sid=101
 해킹 올림픽 ‘데프콘 CTF 31’ 예선 결과... 한미 연합팀과 한국팀 3곳, 본선 진출 쾌거  
 https://www.boannews.com/media/view.asp?idx=118586  
 
-**_2024년_**
+**_2024년_**  
 해킹 올림픽 ‘데프콘 CTF 32’, 한미 연합팀과 한국팀 4곳 본선 진출
 https://www.boannews.com/media/view.asp?idx=129589
 
