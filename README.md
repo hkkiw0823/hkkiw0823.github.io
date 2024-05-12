@@ -41,20 +41,25 @@ https://www.boannews.com/media/view.asp?idx=42385
   
 시큐인사이드 준우승 코드레드팀, 데프콘도 정복하나?  
 https://www.boannews.com/media/view.asp?idx=41933&kind=3  
+  
 시큐인사이드 준우승 코드레드팀  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=020&aid=0002607703  
   
 숨 가빴던 KISA 해킹방어대회…'코드레드팀' 우승  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002064955  
+  
 “새로운 경험이었어요” 11회 HDCON 우승 'CodeRed팀' 영상 인터뷰  
 https://www.dailysecu.com/?mod=news&act=articleView&idxno=8309  
+  
 해킹방어대회 실무형 변모 주목  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002253742  
+  
 확 바뀐 KISA 해킹방어대회…참가자 '장사진'  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002063919  
+  
 제11회 해킹방어대회 우승은 ‘코드레드’  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002024440  
-
+  
 
 **_2017년_**
   
@@ -73,11 +78,13 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=018&aid=00041
   
 **‘블랙 해커’ 막는 ‘천재 화이트 해커’ iT 보안전문가 강인욱**  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=144&aid=0000600826  
+
 **‘블랙해커’ 공격 막는 ‘화이트해커’ 강인욱씨**  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=469&aid=0000405234  
   
 국제 해킹방어대회 SECCON CTF 2019서 한국팀 ‘CodeRed’ 준우승  
 https://www.boannews.com/media/view.asp?idx=85365  
+
 한국대표 CodeRed팀, 일본 국제해킹방어대회에서 준우승 기염  
 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=468&aid=0000607898  
   
