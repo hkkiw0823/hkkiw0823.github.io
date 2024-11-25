@@ -114,6 +114,9 @@ https://www.boannews.com/media/view.asp?idx=118586
 해킹 올림픽 ‘데프콘 CTF 32’, 한미 연합팀과 한국팀 4곳 본선 진출  
 https://www.boannews.com/media/view.asp?idx=129589  
 
+한국 연합팀 SuperDiceCode, 세계 해킹방어대회 DEF CON 32 CTF 세계 3위 달성  
+https://www.segyebiz.com/newsView/20240814514300?OutUrl=naver
+
 ## 수상
 
 **_2024_**   
